@@ -1,0 +1,18 @@
+{
+  "name": "000777Firmware",
+  "description": "000777Firmware",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ]
+}
